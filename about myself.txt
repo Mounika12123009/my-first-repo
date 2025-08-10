@@ -1,5 +1,0 @@
-Name: Mounika Muddada
-Course: BSC-Computer Science
-College: Aditya degree college
-Location: Ram Nagar, Asilmeta, Visakhapatnam
-About this Project: I have learned about GitHub and it is used to collebrate with the people around the world....
